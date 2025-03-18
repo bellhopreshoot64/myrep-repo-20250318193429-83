@@ -7,8 +7,8 @@ contract DataVault_0 {
     string public message;
 
     constructor() {
-        randomNumber = 1;
-        message = "Hello from commit 0 - 2025-03-18 19:34:34";
+        randomNumber = 28;
+        message = "Hello from commit 0 - 2025-03-18 19:34:38";
     }
 
     function getMessage() public view returns (string) {
